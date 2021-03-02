@@ -28,7 +28,7 @@ Press Escape to Main Menu (if you lost)
 
 ## Access Link
 
-[Play Game](agzsoftsi.itch.io/stay-save)
+[Play Game](https://agzsoftsi.itch.io/stay-save)
 
 ## Technologies:
 
