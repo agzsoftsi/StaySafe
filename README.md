@@ -21,10 +21,10 @@ Press Escape to Main Menu (if you lost)
 - Jump function.
 - Enemies implemented(Covid-19).
 - Lose function implemented.
-- Restart Stage opcion implemented. (key Space).
+- Restart Stage option implemented. (key space).
 - Go Back to main Menu implemented. (key Escape).
 - days counter implemented (score).
-- Support for Google Chrome, Firefox, Microsoft Edge (Recomended PC browser).
+- Support for Google Chrome, Firefox, Microsoft Edge (Recommended PC browser).
 
 ## Access Link
 
